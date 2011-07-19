@@ -57,7 +57,7 @@ Timer.prototype = {
         var s = doisDigitos(t.getUTCSeconds());
         return h + ":" + m + ":" + s;
     }
-}
+};
 
 function getRandom()
 {	
